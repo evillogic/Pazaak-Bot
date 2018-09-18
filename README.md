@@ -1,11 +1,11 @@
 # Pazaak-Bot
 discord.py bot for playing Pazaak
 
-VERY WIP
+VERY WIP\n
 #TODO:
-Cleanup globals
-Add card images
-reformat & beautify board
-Win Conditions
-Side Decking
-Shop
+*Cleanup globals
+*Add card images
+*reformat & beautify board
+*Win Conditions
+*Side Decking
+*Shop
