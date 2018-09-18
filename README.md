@@ -3,7 +3,7 @@ discord.py bot for playing Pazaak
 
 VERY WIP
 
-# TODO:
+## TODO:
 * Cleanup globals
 * Add card images
 * reformat & beautify board
